@@ -3,6 +3,8 @@ package com.java.testing;
 import javax.swing.JButton;
 import javax.swing.JFrame;
 
+//Hello world class to test how to make the snap package for a jar application.
+
 public class HelloWorld {
 	public static void main(String [] args) {
 		System.out.println("Hello World");
